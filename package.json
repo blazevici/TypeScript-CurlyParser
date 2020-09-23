@@ -1,0 +1,23 @@
+{
+  "name": "typescript-curlyparser",
+  "version": "1.0.0",
+  "description": "Parser made with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blazevici/TypeScript-CurlyParser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blazevici/TypeScript-CurlyParser/issues"
+  },
+  "homepage": "https://github.com/blazevici/TypeScript-CurlyParser#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
