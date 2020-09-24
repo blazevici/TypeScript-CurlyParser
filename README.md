@@ -1,2 +1,2 @@
 # TypeScript-CurlyParser
-Parser made with TypeScript
+Curly brackets parser made with TypeScript
